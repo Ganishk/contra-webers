@@ -8,12 +8,12 @@ CPC Software Hackathon
 
 ## Problem statement
 This repository contains source code for a website which
-matches urban workers who seek the job with their clients
+matches urban workers who seek the job with their clients.
 
 ## Workflow
- - It lists down the registered urban workers
+ - It lists down the registered urban workers.
  - The needed people can hire them in th.is platform.
- - We will create a website and put the data of available workers
+ - We will create a website and put the data of available workers.
 
 
 ## Future Goals
